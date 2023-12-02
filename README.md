@@ -2,4 +2,4 @@
 
 18.10.22
 
-Провел лекцию для 5-7 классов про применения циклов в языке Кумир и дал несколько задач в качестве практики.
+I gave a lecture for grades 5-7 about the use of cycles in the Idol language and gave several tasks as practice.
